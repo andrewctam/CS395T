@@ -1,4 +1,693 @@
 month,division,line,day_type,reporting_category,subcategory,delays
+2024-10-01,A DIVISION,1,1,Crew Availability,Crew Availability,60
+2024-10-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,17
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,20
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,43
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,"Fire, Smoke, Debris",30
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,Other - CE,55
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,Other Infrastructure,30
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,Other - Sig,365
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,Propulsion,77
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,Rail and Roadbed,1
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,Service Delivery,106
+2024-10-01,A DIVISION,1,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,34
+2024-10-01,A DIVISION,1,1,Operating Conditions,Other Operating Environment,293
+2024-10-01,A DIVISION,1,1,Planned ROW Work,Capital Work - Other Planned ROW,29
+2024-10-01,A DIVISION,1,1,Planned ROW Work,Subways Maintenance,316
+2024-10-01,A DIVISION,1,1,Planned ROW Work,Work Equipment,1
+2024-10-01,A DIVISION,1,1,Police & Medical,Persons on Roadbed,93
+2024-10-01,A DIVISION,1,1,Police & Medical,"Public Conduct, Crime, Police Response",357
+2024-10-01,A DIVISION,1,1,Police & Medical,Sick/Injured Customer,22
+2024-10-01,A DIVISION,1,2,Crew Availability,Crew Availability,16
+2024-10-01,A DIVISION,1,2,Infrastructure & Equipment,"Fire, Smoke, Debris",36
+2024-10-01,A DIVISION,1,2,Infrastructure & Equipment,Other - CE,8
+2024-10-01,A DIVISION,1,2,Infrastructure & Equipment,Other Internal Disruptions,4
+2024-10-01,A DIVISION,1,2,Infrastructure & Equipment,Other - Sig,41
+2024-10-01,A DIVISION,1,2,Infrastructure & Equipment,Service Delivery,7
+2024-10-01,A DIVISION,1,2,Operating Conditions,Other Operating Environment,21
+2024-10-01,A DIVISION,1,2,Planned ROW Work,Capital Work - Other Planned ROW,11
+2024-10-01,A DIVISION,1,2,Planned ROW Work,Subways Maintenance,59
+2024-10-01,A DIVISION,1,2,Police & Medical,Persons on Roadbed,62
+2024-10-01,A DIVISION,1,2,Police & Medical,"Public Conduct, Crime, Police Response",67
+2024-10-01,A DIVISION,1,2,Police & Medical,Sick/Injured Customer,7
+2024-10-01,A DIVISION,2,1,Crew Availability,Crew Availability,56
+2024-10-01,A DIVISION,2,1,External Factors,External Debris on Roadbed,17
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,Braking,9
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,Door-Related,15
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,"Fire, Smoke, Debris",44
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,Other - CE,85
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,Other Infrastructure,2
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,Other - Sig,236
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,Propulsion,14
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,Rail and Roadbed,51
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,Service Delivery,47
+2024-10-01,A DIVISION,2,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,26
+2024-10-01,A DIVISION,2,1,Operating Conditions,Other Operating Environment,292
+2024-10-01,A DIVISION,2,1,Planned ROW Work,Capital Work - Other Planned ROW,31
+2024-10-01,A DIVISION,2,1,Planned ROW Work,Subways Maintenance,387
+2024-10-01,A DIVISION,2,1,Planned ROW Work,Work Equipment,7
+2024-10-01,A DIVISION,2,1,Police & Medical,Persons on Roadbed,23
+2024-10-01,A DIVISION,2,1,Police & Medical,"Public Conduct, Crime, Police Response",439
+2024-10-01,A DIVISION,2,1,Police & Medical,Sick/Injured Customer,138
+2024-10-01,A DIVISION,2,2,Crew Availability,Crew Availability,5
+2024-10-01,A DIVISION,2,2,Infrastructure & Equipment,Braking,5
+2024-10-01,A DIVISION,2,2,Infrastructure & Equipment,Door-Related,2
+2024-10-01,A DIVISION,2,2,Infrastructure & Equipment,"Fire, Smoke, Debris",12
+2024-10-01,A DIVISION,2,2,Infrastructure & Equipment,Other - CE,7
+2024-10-01,A DIVISION,2,2,Infrastructure & Equipment,Other Infrastructure,6
+2024-10-01,A DIVISION,2,2,Infrastructure & Equipment,Other - Sig,2
+2024-10-01,A DIVISION,2,2,Infrastructure & Equipment,Service Delivery,21
+2024-10-01,A DIVISION,2,2,Operating Conditions,Other Operating Environment,101
+2024-10-01,A DIVISION,2,2,Planned ROW Work,Capital Work - Other Planned ROW,25
+2024-10-01,A DIVISION,2,2,Planned ROW Work,Subways Maintenance,111
+2024-10-01,A DIVISION,2,2,Planned ROW Work,Work Equipment,2
+2024-10-01,A DIVISION,2,2,Police & Medical,Persons on Roadbed,46
+2024-10-01,A DIVISION,2,2,Police & Medical,"Public Conduct, Crime, Police Response",175
+2024-10-01,A DIVISION,2,2,Police & Medical,Sick/Injured Customer,5
+2024-10-01,A DIVISION,3,1,Crew Availability,Crew Availability,28
+2024-10-01,A DIVISION,3,1,External Factors,External Debris on Roadbed,18
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,Braking,21
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,Door-Related,2
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,"Fire, Smoke, Debris",19
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,Other - CE,50
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,Other Infrastructure,7
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,Other - Sig,143
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,Propulsion,18
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,Rail and Roadbed,111
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,Service Delivery,21
+2024-10-01,A DIVISION,3,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,12
+2024-10-01,A DIVISION,3,1,Operating Conditions,Other Operating Environment,91
+2024-10-01,A DIVISION,3,1,Planned ROW Work,Capital Work - Other Planned ROW,2
+2024-10-01,A DIVISION,3,1,Planned ROW Work,Subways Maintenance,45
+2024-10-01,A DIVISION,3,1,Police & Medical,Persons on Roadbed,32
+2024-10-01,A DIVISION,3,1,Police & Medical,"Public Conduct, Crime, Police Response",263
+2024-10-01,A DIVISION,3,1,Police & Medical,Sick/Injured Customer,46
+2024-10-01,A DIVISION,3,2,Crew Availability,Crew Availability,8
+2024-10-01,A DIVISION,3,2,External Factors,External Debris on Roadbed,1
+2024-10-01,A DIVISION,3,2,Infrastructure & Equipment,Braking,10
+2024-10-01,A DIVISION,3,2,Infrastructure & Equipment,"Fire, Smoke, Debris",2
+2024-10-01,A DIVISION,3,2,Infrastructure & Equipment,Other - CE,7
+2024-10-01,A DIVISION,3,2,Infrastructure & Equipment,Other Infrastructure,11
+2024-10-01,A DIVISION,3,2,Infrastructure & Equipment,Other - Sig,35
+2024-10-01,A DIVISION,3,2,Infrastructure & Equipment,Service Delivery,10
+2024-10-01,A DIVISION,3,2,Operating Conditions,Other Operating Environment,68
+2024-10-01,A DIVISION,3,2,Planned ROW Work,Subways Maintenance,117
+2024-10-01,A DIVISION,3,2,Planned ROW Work,Work Equipment,3
+2024-10-01,A DIVISION,3,2,Police & Medical,Persons on Roadbed,68
+2024-10-01,A DIVISION,3,2,Police & Medical,"Public Conduct, Crime, Police Response",135
+2024-10-01,A DIVISION,3,2,Police & Medical,Sick/Injured Customer,5
+2024-10-01,A DIVISION,4,1,Crew Availability,Crew Availability,44
+2024-10-01,A DIVISION,4,1,External Factors,External Debris on Roadbed,2
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,Braking,11
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,Door-Related,10
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,"Fire, Smoke, Debris",8
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,Other - CE,110
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,Other Infrastructure,9
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,Other - Sig,299
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,Propulsion,46
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,Rail and Roadbed,16
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,Service Delivery,35
+2024-10-01,A DIVISION,4,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6
+2024-10-01,A DIVISION,4,1,Operating Conditions,Other Operating Environment,179
+2024-10-01,A DIVISION,4,1,Planned ROW Work,Capital Work - Other Planned ROW,1
+2024-10-01,A DIVISION,4,1,Planned ROW Work,Subways Maintenance,86
+2024-10-01,A DIVISION,4,1,Planned ROW Work,Work Equipment,3
+2024-10-01,A DIVISION,4,1,Police & Medical,Persons on Roadbed,31
+2024-10-01,A DIVISION,4,1,Police & Medical,"Public Conduct, Crime, Police Response",506
+2024-10-01,A DIVISION,4,1,Police & Medical,Sick/Injured Customer,77
+2024-10-01,A DIVISION,4,2,Crew Availability,Crew Availability,10
+2024-10-01,A DIVISION,4,2,Infrastructure & Equipment,Door-Related,5
+2024-10-01,A DIVISION,4,2,Infrastructure & Equipment,"Fire, Smoke, Debris",35
+2024-10-01,A DIVISION,4,2,Infrastructure & Equipment,Other - CE,1
+2024-10-01,A DIVISION,4,2,Infrastructure & Equipment,Other - Sig,20
+2024-10-01,A DIVISION,4,2,Infrastructure & Equipment,Rail and Roadbed,20
+2024-10-01,A DIVISION,4,2,Infrastructure & Equipment,Service Delivery,7
+2024-10-01,A DIVISION,4,2,Operating Conditions,Other Operating Environment,69
+2024-10-01,A DIVISION,4,2,Planned ROW Work,Capital Work - Other Planned ROW,34
+2024-10-01,A DIVISION,4,2,Planned ROW Work,Subways Maintenance,69
+2024-10-01,A DIVISION,4,2,Planned ROW Work,Work Equipment,8
+2024-10-01,A DIVISION,4,2,Police & Medical,Persons on Roadbed,12
+2024-10-01,A DIVISION,4,2,Police & Medical,"Public Conduct, Crime, Police Response",44
+2024-10-01,A DIVISION,4,2,Police & Medical,Sick/Injured Customer,12
+2024-10-01,A DIVISION,5,1,Crew Availability,Crew Availability,34
+2024-10-01,A DIVISION,5,1,External Factors,External Debris on Roadbed,1
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,Braking,10
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,Door-Related,27
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,"Fire, Smoke, Debris",24
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,Other - CE,66
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,Other Infrastructure,3
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,Other - Sig,148
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,Propulsion,18
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,Rail and Roadbed,44
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,Service Delivery,22
+2024-10-01,A DIVISION,5,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,5
+2024-10-01,A DIVISION,5,1,Operating Conditions,Other Operating Environment,105
+2024-10-01,A DIVISION,5,1,Planned ROW Work,Capital Work - Other Planned ROW,25
+2024-10-01,A DIVISION,5,1,Planned ROW Work,Subways Maintenance,94
+2024-10-01,A DIVISION,5,1,Planned ROW Work,Work Equipment,16
+2024-10-01,A DIVISION,5,1,Police & Medical,Persons on Roadbed,12
+2024-10-01,A DIVISION,5,1,Police & Medical,"Public Conduct, Crime, Police Response",316
+2024-10-01,A DIVISION,5,1,Police & Medical,Sick/Injured Customer,115
+2024-10-01,A DIVISION,5,2,Infrastructure & Equipment,Door-Related,1
+2024-10-01,A DIVISION,5,2,Infrastructure & Equipment,"Fire, Smoke, Debris",23
+2024-10-01,A DIVISION,5,2,Infrastructure & Equipment,Other - Sig,1
+2024-10-01,A DIVISION,5,2,Infrastructure & Equipment,Rail and Roadbed,11
+2024-10-01,A DIVISION,5,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2
+2024-10-01,A DIVISION,5,2,Operating Conditions,Other Operating Environment,36
+2024-10-01,A DIVISION,5,2,Planned ROW Work,Capital Work - Other Planned ROW,29
+2024-10-01,A DIVISION,5,2,Planned ROW Work,Subways Maintenance,3
+2024-10-01,A DIVISION,5,2,Planned ROW Work,Work Equipment,2
+2024-10-01,A DIVISION,5,2,Police & Medical,Persons on Roadbed,5
+2024-10-01,A DIVISION,5,2,Police & Medical,"Public Conduct, Crime, Police Response",10
+2024-10-01,A DIVISION,5,2,Police & Medical,Sick/Injured Customer,1
+2024-10-01,A DIVISION,6,1,Crew Availability,Crew Availability,48
+2024-10-01,A DIVISION,6,1,External Factors,External Debris on Roadbed,24
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,Braking,27
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,Door-Related,117
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,"Fire, Smoke, Debris",150
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,Other - CE,103
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,Other Infrastructure,7
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,Other Internal Disruptions,3
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,Other - Sig,155
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,Propulsion,117
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,Rail and Roadbed,16
+2024-10-01,A DIVISION,6,1,Infrastructure & Equipment,Service Delivery,49
+2024-10-01,A DIVISION,6,1,Operating Conditions,Other Operating Environment,376
+2024-10-01,A DIVISION,6,1,Operating Conditions,Service Management,103
+2024-10-01,A DIVISION,6,1,Planned ROW Work,Capital Work - Other Planned ROW,72
+2024-10-01,A DIVISION,6,1,Planned ROW Work,Other Planned ROW Work,1
+2024-10-01,A DIVISION,6,1,Planned ROW Work,Subways Maintenance,282
+2024-10-01,A DIVISION,6,1,Planned ROW Work,Work Equipment,23
+2024-10-01,A DIVISION,6,1,Police & Medical,Persons on Roadbed,75
+2024-10-01,A DIVISION,6,1,Police & Medical,"Public Conduct, Crime, Police Response",641
+2024-10-01,A DIVISION,6,1,Police & Medical,Sick/Injured Customer,117
+2024-10-01,A DIVISION,6,2,Crew Availability,Crew Availability,15
+2024-10-01,A DIVISION,6,2,Infrastructure & Equipment,Door-Related,8
+2024-10-01,A DIVISION,6,2,Infrastructure & Equipment,"Fire, Smoke, Debris",43
+2024-10-01,A DIVISION,6,2,Infrastructure & Equipment,Other - CE,5
+2024-10-01,A DIVISION,6,2,Infrastructure & Equipment,Propulsion,1
+2024-10-01,A DIVISION,6,2,Infrastructure & Equipment,Service Delivery,9
+2024-10-01,A DIVISION,6,2,Operating Conditions,Other Operating Environment,95
+2024-10-01,A DIVISION,6,2,Planned ROW Work,Capital Work - Other Planned ROW,26
+2024-10-01,A DIVISION,6,2,Planned ROW Work,Subways Maintenance,109
+2024-10-01,A DIVISION,6,2,Planned ROW Work,Work Equipment,10
+2024-10-01,A DIVISION,6,2,Police & Medical,Persons on Roadbed,17
+2024-10-01,A DIVISION,6,2,Police & Medical,"Public Conduct, Crime, Police Response",71
+2024-10-01,A DIVISION,6,2,Police & Medical,Sick/Injured Customer,12
+2024-10-01,A DIVISION,7,1,Crew Availability,Crew Availability,68
+2024-10-01,A DIVISION,7,1,External Factors,External Debris on Roadbed,7
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,Braking,2
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,Door-Related,53
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,"Fire, Smoke, Debris",9
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,Other - CE,11
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,Other Infrastructure,106
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,Other - Sig,23
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,Rail and Roadbed,55
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,Service Delivery,28
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,Signal Modernization Capital Project,7
+2024-10-01,A DIVISION,7,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,14
+2024-10-01,A DIVISION,7,1,Operating Conditions,Other Operating Environment,11
+2024-10-01,A DIVISION,7,1,Planned ROW Work,Capital Work - Other Planned ROW,4
+2024-10-01,A DIVISION,7,1,Planned ROW Work,Subways Maintenance,682
+2024-10-01,A DIVISION,7,1,Planned ROW Work,Work Equipment,10
+2024-10-01,A DIVISION,7,1,Police & Medical,Persons on Roadbed,10
+2024-10-01,A DIVISION,7,1,Police & Medical,"Public Conduct, Crime, Police Response",203
+2024-10-01,A DIVISION,7,1,Police & Medical,Sick/Injured Customer,24
+2024-10-01,A DIVISION,7,2,Crew Availability,Crew Availability,3
+2024-10-01,A DIVISION,7,2,Infrastructure & Equipment,Other Infrastructure,5
+2024-10-01,A DIVISION,7,2,Infrastructure & Equipment,Other - Sig,19
+2024-10-01,A DIVISION,7,2,Infrastructure & Equipment,Service Delivery,3
+2024-10-01,A DIVISION,7,2,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2024-10-01,A DIVISION,7,2,Operating Conditions,Other Operating Environment,1
+2024-10-01,A DIVISION,7,2,Planned ROW Work,Capital Work - Other Planned ROW,21
+2024-10-01,A DIVISION,7,2,Planned ROW Work,Subways Maintenance,47
+2024-10-01,A DIVISION,7,2,Planned ROW Work,Work Equipment,9
+2024-10-01,A DIVISION,7,2,Police & Medical,Persons on Roadbed,44
+2024-10-01,A DIVISION,7,2,Police & Medical,"Public Conduct, Crime, Police Response",19
+2024-10-01,A DIVISION,7,2,Police & Medical,Sick/Injured Customer,7
+2024-10-01,B DIVISION,A,1,Crew Availability,Crew Availability,130
+2024-10-01,B DIVISION,A,1,External Factors,External Agency or Utility,168
+2024-10-01,B DIVISION,A,1,External Factors,External Debris on Roadbed,8
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,Braking,26
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,Door-Related,24
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,"Fire, Smoke, Debris",4
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,Other - CE,53
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,Other Infrastructure,5
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,Other - Sig,180
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,Propulsion,9
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,Rail and Roadbed,49
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,Service Delivery,37
+2024-10-01,B DIVISION,A,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,14
+2024-10-01,B DIVISION,A,1,Operating Conditions,Other Operating Environment,115
+2024-10-01,B DIVISION,A,1,Planned ROW Work,Capital Work - Other Planned ROW,4
+2024-10-01,B DIVISION,A,1,Planned ROW Work,Subways Maintenance,477
+2024-10-01,B DIVISION,A,1,Planned ROW Work,Work Equipment,43
+2024-10-01,B DIVISION,A,1,Police & Medical,Persons on Roadbed,38
+2024-10-01,B DIVISION,A,1,Police & Medical,"Public Conduct, Crime, Police Response",253
+2024-10-01,B DIVISION,A,1,Police & Medical,Sick/Injured Customer,41
+2024-10-01,B DIVISION,A,2,Crew Availability,Crew Availability,49
+2024-10-01,B DIVISION,A,2,External Factors,External Agency or Utility,41
+2024-10-01,B DIVISION,A,2,External Factors,External Debris on Roadbed,2
+2024-10-01,B DIVISION,A,2,Infrastructure & Equipment,Door-Related,3
+2024-10-01,B DIVISION,A,2,Infrastructure & Equipment,"Fire, Smoke, Debris",2
+2024-10-01,B DIVISION,A,2,Infrastructure & Equipment,Other - CE,10
+2024-10-01,B DIVISION,A,2,Infrastructure & Equipment,Other - Sig,35
+2024-10-01,B DIVISION,A,2,Infrastructure & Equipment,Propulsion,4
+2024-10-01,B DIVISION,A,2,Infrastructure & Equipment,Service Delivery,25
+2024-10-01,B DIVISION,A,2,Infrastructure & Equipment,Signal Modernization Capital Project,2
+2024-10-01,B DIVISION,A,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4
+2024-10-01,B DIVISION,A,2,Operating Conditions,Other Operating Environment,56
+2024-10-01,B DIVISION,A,2,Planned ROW Work,Capital Work - Other Planned ROW,11
+2024-10-01,B DIVISION,A,2,Planned ROW Work,Subways Maintenance,327
+2024-10-01,B DIVISION,A,2,Planned ROW Work,Work Equipment,11
+2024-10-01,B DIVISION,A,2,Police & Medical,Persons on Roadbed,14
+2024-10-01,B DIVISION,A,2,Police & Medical,"Public Conduct, Crime, Police Response",88
+2024-10-01,B DIVISION,A,2,Police & Medical,Sick/Injured Customer,6
+2024-10-01,B DIVISION,B,1,Crew Availability,Crew Availability,156
+2024-10-01,B DIVISION,B,1,External Factors,External Agency or Utility,1
+2024-10-01,B DIVISION,B,1,External Factors,External Debris on Roadbed,7
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Braking,40
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Door-Related,60
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,"Fire, Smoke, Debris",11
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Other - CE,48
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Other Infrastructure,1
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Other Internal Disruptions,2
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Other - Sig,287
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Propulsion,38
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Rail and Roadbed,130
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Service Delivery,62
+2024-10-01,B DIVISION,B,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,61
+2024-10-01,B DIVISION,B,1,Operating Conditions,Other Operating Environment,180
+2024-10-01,B DIVISION,B,1,Planned ROW Work,Capital Work - Other Planned ROW,21
+2024-10-01,B DIVISION,B,1,Planned ROW Work,Insufficient Supplement Schedule,17
+2024-10-01,B DIVISION,B,1,Planned ROW Work,Subways Maintenance,317
+2024-10-01,B DIVISION,B,1,Planned ROW Work,Work Equipment,20
+2024-10-01,B DIVISION,B,1,Police & Medical,Persons on Roadbed,40
+2024-10-01,B DIVISION,B,1,Police & Medical,"Public Conduct, Crime, Police Response",317
+2024-10-01,B DIVISION,B,1,Police & Medical,Sick/Injured Customer,56
+2024-10-01,B DIVISION,C,1,Crew Availability,Crew Availability,100
+2024-10-01,B DIVISION,C,1,External Factors,External Agency or Utility,18
+2024-10-01,B DIVISION,C,1,External Factors,External Debris on Roadbed,5
+2024-10-01,B DIVISION,C,1,Infrastructure & Equipment,Braking,28
+2024-10-01,B DIVISION,C,1,Infrastructure & Equipment,Door-Related,21
+2024-10-01,B DIVISION,C,1,Infrastructure & Equipment,Other - CE,33
+2024-10-01,B DIVISION,C,1,Infrastructure & Equipment,Other Infrastructure,3
+2024-10-01,B DIVISION,C,1,Infrastructure & Equipment,Other - Sig,137
+2024-10-01,B DIVISION,C,1,Infrastructure & Equipment,Propulsion,9
+2024-10-01,B DIVISION,C,1,Infrastructure & Equipment,Rail and Roadbed,49
+2024-10-01,B DIVISION,C,1,Infrastructure & Equipment,Service Delivery,29
+2024-10-01,B DIVISION,C,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,8
+2024-10-01,B DIVISION,C,1,Operating Conditions,Other Operating Environment,192
+2024-10-01,B DIVISION,C,1,Planned ROW Work,Capital Work - Other Planned ROW,6
+2024-10-01,B DIVISION,C,1,Planned ROW Work,Subways Maintenance,154
+2024-10-01,B DIVISION,C,1,Planned ROW Work,Work Equipment,38
+2024-10-01,B DIVISION,C,1,Police & Medical,Persons on Roadbed,50
+2024-10-01,B DIVISION,C,1,Police & Medical,"Public Conduct, Crime, Police Response",343
+2024-10-01,B DIVISION,C,1,Police & Medical,Sick/Injured Customer,17
+2024-10-01,B DIVISION,C,2,Crew Availability,Crew Availability,18
+2024-10-01,B DIVISION,C,2,External Factors,External Agency or Utility,1
+2024-10-01,B DIVISION,C,2,External Factors,External Debris on Roadbed,21
+2024-10-01,B DIVISION,C,2,Infrastructure & Equipment,Braking,4
+2024-10-01,B DIVISION,C,2,Infrastructure & Equipment,Other - CE,4
+2024-10-01,B DIVISION,C,2,Infrastructure & Equipment,Other Infrastructure,4
+2024-10-01,B DIVISION,C,2,Infrastructure & Equipment,Other - Sig,37
+2024-10-01,B DIVISION,C,2,Infrastructure & Equipment,Service Delivery,10
+2024-10-01,B DIVISION,C,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4
+2024-10-01,B DIVISION,C,2,Operating Conditions,Other Operating Environment,75
+2024-10-01,B DIVISION,C,2,Planned ROW Work,Capital Work - Other Planned ROW,11
+2024-10-01,B DIVISION,C,2,Planned ROW Work,Subways Maintenance,186
+2024-10-01,B DIVISION,C,2,Planned ROW Work,Work Equipment,6
+2024-10-01,B DIVISION,C,2,Police & Medical,Persons on Roadbed,13
+2024-10-01,B DIVISION,C,2,Police & Medical,"Public Conduct, Crime, Police Response",58
+2024-10-01,B DIVISION,C,2,Police & Medical,Sick/Injured Customer,5
+2024-10-01,B DIVISION,D,1,Crew Availability,Crew Availability,231
+2024-10-01,B DIVISION,D,1,External Factors,External Agency or Utility,2
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,Braking,5
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,Door-Related,38
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,"Fire, Smoke, Debris",11
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,Other - CE,61
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,Other Infrastructure,6
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,Other - Sig,269
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,Propulsion,40
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,Rail and Roadbed,145
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,Service Delivery,54
+2024-10-01,B DIVISION,D,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,47
+2024-10-01,B DIVISION,D,1,Operating Conditions,Other Operating Environment,155
+2024-10-01,B DIVISION,D,1,Planned ROW Work,Capital Work - Other Planned ROW,4
+2024-10-01,B DIVISION,D,1,Planned ROW Work,Insufficient Supplement Schedule,1
+2024-10-01,B DIVISION,D,1,Planned ROW Work,Subways Maintenance,488
+2024-10-01,B DIVISION,D,1,Planned ROW Work,Work Equipment,70
+2024-10-01,B DIVISION,D,1,Police & Medical,Persons on Roadbed,36
+2024-10-01,B DIVISION,D,1,Police & Medical,"Public Conduct, Crime, Police Response",254
+2024-10-01,B DIVISION,D,1,Police & Medical,Sick/Injured Customer,33
+2024-10-01,B DIVISION,D,2,Crew Availability,Crew Availability,43
+2024-10-01,B DIVISION,D,2,External Factors,External Agency or Utility,1
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,Braking,12
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,Door-Related,6
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,Other - CE,1
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,Other Infrastructure,7
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,Other - Sig,43
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,Propulsion,1
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,Rail and Roadbed,12
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,Service Delivery,3
+2024-10-01,B DIVISION,D,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,11
+2024-10-01,B DIVISION,D,2,Operating Conditions,Other Operating Environment,13
+2024-10-01,B DIVISION,D,2,Planned ROW Work,Capital Work - Other Planned ROW,15
+2024-10-01,B DIVISION,D,2,Planned ROW Work,Insufficient Supplement Schedule,2
+2024-10-01,B DIVISION,D,2,Planned ROW Work,Subways Maintenance,153
+2024-10-01,B DIVISION,D,2,Planned ROW Work,Work Equipment,6
+2024-10-01,B DIVISION,D,2,Police & Medical,Persons on Roadbed,4
+2024-10-01,B DIVISION,D,2,Police & Medical,"Public Conduct, Crime, Police Response",36
+2024-10-01,B DIVISION,D,2,Police & Medical,Sick/Injured Customer,4
+2024-10-01,B DIVISION,E,1,Crew Availability,Crew Availability,58
+2024-10-01,B DIVISION,E,1,External Factors,External Agency or Utility,42
+2024-10-01,B DIVISION,E,1,External Factors,External Debris on Roadbed,1
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Braking,15
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Door-Related,32
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,"Fire, Smoke, Debris",4
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Other - CE,44
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Other Infrastructure,32
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Other Internal Disruptions,7
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Other - Sig,200
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Propulsion,4
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Rail and Roadbed,65
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Service Delivery,31
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Signal Modernization Capital Project,50
+2024-10-01,B DIVISION,E,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,71
+2024-10-01,B DIVISION,E,1,Operating Conditions,Other Operating Environment,39
+2024-10-01,B DIVISION,E,1,Planned ROW Work,Capital Work - Other Planned ROW,57
+2024-10-01,B DIVISION,E,1,Planned ROW Work,Subways Maintenance,603
+2024-10-01,B DIVISION,E,1,Planned ROW Work,Work Equipment,23
+2024-10-01,B DIVISION,E,1,Police & Medical,Persons on Roadbed,37
+2024-10-01,B DIVISION,E,1,Police & Medical,"Public Conduct, Crime, Police Response",242
+2024-10-01,B DIVISION,E,1,Police & Medical,Sick/Injured Customer,53
+2024-10-01,B DIVISION,E,2,Crew Availability,Crew Availability,7
+2024-10-01,B DIVISION,E,2,Infrastructure & Equipment,Braking,3
+2024-10-01,B DIVISION,E,2,Infrastructure & Equipment,Door-Related,4
+2024-10-01,B DIVISION,E,2,Infrastructure & Equipment,"Fire, Smoke, Debris",3
+2024-10-01,B DIVISION,E,2,Infrastructure & Equipment,Other - CE,3
+2024-10-01,B DIVISION,E,2,Infrastructure & Equipment,Other - Sig,2
+2024-10-01,B DIVISION,E,2,Infrastructure & Equipment,Rail and Roadbed,2
+2024-10-01,B DIVISION,E,2,Infrastructure & Equipment,Service Delivery,4
+2024-10-01,B DIVISION,E,2,Infrastructure & Equipment,Signal Modernization Capital Project,18
+2024-10-01,B DIVISION,E,2,Operating Conditions,Other Operating Environment,3
+2024-10-01,B DIVISION,E,2,Planned ROW Work,Subways Maintenance,151
+2024-10-01,B DIVISION,E,2,Police & Medical,Persons on Roadbed,19
+2024-10-01,B DIVISION,E,2,Police & Medical,"Public Conduct, Crime, Police Response",34
+2024-10-01,B DIVISION,E,2,Police & Medical,Sick/Injured Customer,5
+2024-10-01,B DIVISION,F,1,Crew Availability,Crew Availability,205
+2024-10-01,B DIVISION,F,1,External Factors,External Agency or Utility,13
+2024-10-01,B DIVISION,F,1,External Factors,External Debris on Roadbed,11
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Braking,54
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Door-Related,5
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,"Fire, Smoke, Debris",8
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Other - CE,45
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Other Infrastructure,7
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Other Internal Disruptions,36
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Other - Sig,186
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Propulsion,10
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Rail and Roadbed,96
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Service Delivery,30
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Signal Modernization Capital Project,82
+2024-10-01,B DIVISION,F,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,9
+2024-10-01,B DIVISION,F,1,Operating Conditions,Other Operating Environment,119
+2024-10-01,B DIVISION,F,1,Planned ROW Work,Capital Work - Other Planned ROW,164
+2024-10-01,B DIVISION,F,1,Planned ROW Work,Subways Maintenance,888
+2024-10-01,B DIVISION,F,1,Planned ROW Work,Work Equipment,69
+2024-10-01,B DIVISION,F,1,Police & Medical,Persons on Roadbed,31
+2024-10-01,B DIVISION,F,1,Police & Medical,"Public Conduct, Crime, Police Response",266
+2024-10-01,B DIVISION,F,1,Police & Medical,Sick/Injured Customer,97
+2024-10-01,B DIVISION,F,2,Crew Availability,Crew Availability,42
+2024-10-01,B DIVISION,F,2,Infrastructure & Equipment,Braking,4
+2024-10-01,B DIVISION,F,2,Infrastructure & Equipment,"Fire, Smoke, Debris",10
+2024-10-01,B DIVISION,F,2,Infrastructure & Equipment,Other - CE,4
+2024-10-01,B DIVISION,F,2,Infrastructure & Equipment,Other Internal Disruptions,8
+2024-10-01,B DIVISION,F,2,Infrastructure & Equipment,Other - Sig,31
+2024-10-01,B DIVISION,F,2,Infrastructure & Equipment,Rail and Roadbed,16
+2024-10-01,B DIVISION,F,2,Infrastructure & Equipment,Service Delivery,7
+2024-10-01,B DIVISION,F,2,Infrastructure & Equipment,Signal Modernization Capital Project,14
+2024-10-01,B DIVISION,F,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4
+2024-10-01,B DIVISION,F,2,Operating Conditions,Other Operating Environment,6
+2024-10-01,B DIVISION,F,2,Planned ROW Work,Capital Work - Other Planned ROW,194
+2024-10-01,B DIVISION,F,2,Planned ROW Work,Subways Maintenance,211
+2024-10-01,B DIVISION,F,2,Police & Medical,Persons on Roadbed,5
+2024-10-01,B DIVISION,F,2,Police & Medical,"Public Conduct, Crime, Police Response",41
+2024-10-01,B DIVISION,F,2,Police & Medical,Sick/Injured Customer,4
+2024-10-01,B DIVISION,G,1,Crew Availability,Crew Availability,73
+2024-10-01,B DIVISION,G,1,Infrastructure & Equipment,Braking,5
+2024-10-01,B DIVISION,G,1,Infrastructure & Equipment,Door-Related,9
+2024-10-01,B DIVISION,G,1,Infrastructure & Equipment,Other - CE,32
+2024-10-01,B DIVISION,G,1,Infrastructure & Equipment,Other Infrastructure,52
+2024-10-01,B DIVISION,G,1,Infrastructure & Equipment,Other Internal Disruptions,7
+2024-10-01,B DIVISION,G,1,Infrastructure & Equipment,Other - Sig,300
+2024-10-01,B DIVISION,G,1,Infrastructure & Equipment,Rail and Roadbed,25
+2024-10-01,B DIVISION,G,1,Infrastructure & Equipment,Service Delivery,36
+2024-10-01,B DIVISION,G,1,Infrastructure & Equipment,Signal Modernization Capital Project,3
+2024-10-01,B DIVISION,G,1,Operating Conditions,Other Operating Environment,57
+2024-10-01,B DIVISION,G,1,Planned ROW Work,Capital Work - Other Planned ROW,176
+2024-10-01,B DIVISION,G,1,Planned ROW Work,Insufficient Supplement Schedule,1
+2024-10-01,B DIVISION,G,1,Planned ROW Work,Subways Maintenance,371
+2024-10-01,B DIVISION,G,1,Planned ROW Work,Work Equipment,50
+2024-10-01,B DIVISION,G,1,Police & Medical,Persons on Roadbed,10
+2024-10-01,B DIVISION,G,1,Police & Medical,"Public Conduct, Crime, Police Response",210
+2024-10-01,B DIVISION,G,1,Police & Medical,Sick/Injured Customer,8
+2024-10-01,B DIVISION,G,2,Crew Availability,Crew Availability,38
+2024-10-01,B DIVISION,G,2,Infrastructure & Equipment,Other - CE,2
+2024-10-01,B DIVISION,G,2,Infrastructure & Equipment,Other - Sig,20
+2024-10-01,B DIVISION,G,2,Infrastructure & Equipment,Service Delivery,10
+2024-10-01,B DIVISION,G,2,Operating Conditions,Other Operating Environment,2
+2024-10-01,B DIVISION,G,2,Planned ROW Work,Subways Maintenance,9
+2024-10-01,B DIVISION,G,2,Police & Medical,"Public Conduct, Crime, Police Response",15
+2024-10-01,A DIVISION,GS,1,Crew Availability,Crew Availability,1
+2024-10-01,A DIVISION,GS,1,Infrastructure & Equipment,Other - CE,10
+2024-10-01,A DIVISION,GS,1,Infrastructure & Equipment,Service Delivery,2
+2024-10-01,A DIVISION,GS,2,Infrastructure & Equipment,Door-Related,40
+2024-10-01,A DIVISION,GS,2,Infrastructure & Equipment,Other - CE,2
+2024-10-01,B DIVISION,JZ,1,Crew Availability,Crew Availability,74
+2024-10-01,B DIVISION,JZ,1,External Factors,External Debris on Roadbed,13
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Braking,17
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Door-Related,7
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,"Fire, Smoke, Debris",7
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other - CE,81
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other Infrastructure,5
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other Internal Disruptions,5
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other - Sig,38
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Propulsion,15
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Rail and Roadbed,16
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Service Delivery,22
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Signal Modernization Capital Project,2
+2024-10-01,B DIVISION,JZ,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,18
+2024-10-01,B DIVISION,JZ,1,Operating Conditions,Other Operating Environment,128
+2024-10-01,B DIVISION,JZ,1,Planned ROW Work,Capital Work - Other Planned ROW,155
+2024-10-01,B DIVISION,JZ,1,Planned ROW Work,Subways Maintenance,593
+2024-10-01,B DIVISION,JZ,1,Planned ROW Work,Work Equipment,25
+2024-10-01,B DIVISION,JZ,1,Police & Medical,Persons on Roadbed,36
+2024-10-01,B DIVISION,JZ,1,Police & Medical,"Public Conduct, Crime, Police Response",175
+2024-10-01,B DIVISION,JZ,1,Police & Medical,Sick/Injured Customer,4
+2024-10-01,B DIVISION,JZ,2,Crew Availability,Crew Availability,19
+2024-10-01,B DIVISION,JZ,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2024-10-01,B DIVISION,JZ,2,Infrastructure & Equipment,Other Infrastructure,1
+2024-10-01,B DIVISION,JZ,2,Infrastructure & Equipment,Other Internal Disruptions,1
+2024-10-01,B DIVISION,JZ,2,Infrastructure & Equipment,Other - Sig,8
+2024-10-01,B DIVISION,JZ,2,Infrastructure & Equipment,Rail and Roadbed,16
+2024-10-01,B DIVISION,JZ,2,Infrastructure & Equipment,Service Delivery,1
+2024-10-01,B DIVISION,JZ,2,Operating Conditions,Other Operating Environment,7
+2024-10-01,B DIVISION,JZ,2,Planned ROW Work,Subways Maintenance,29
+2024-10-01,B DIVISION,JZ,2,Planned ROW Work,Work Equipment,2
+2024-10-01,B DIVISION,JZ,2,Police & Medical,"Public Conduct, Crime, Police Response",31
+2024-10-01,B DIVISION,L,1,Crew Availability,Crew Availability,77
+2024-10-01,B DIVISION,L,1,External Factors,External Debris on Roadbed,4
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Braking,19
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Door-Related,2
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Other Infrastructure,64
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Other Internal Disruptions,22
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Other - Sig,64
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Propulsion,4
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Rail and Roadbed,28
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Service Delivery,35
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Signal Modernization Capital Project,11
+2024-10-01,B DIVISION,L,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,3
+2024-10-01,B DIVISION,L,1,Operating Conditions,Other Operating Environment,11
+2024-10-01,B DIVISION,L,1,Planned ROW Work,Capital Work - Other Planned ROW,20
+2024-10-01,B DIVISION,L,1,Planned ROW Work,Subways Maintenance,205
+2024-10-01,B DIVISION,L,1,Police & Medical,Persons on Roadbed,13
+2024-10-01,B DIVISION,L,1,Police & Medical,"Public Conduct, Crime, Police Response",102
+2024-10-01,B DIVISION,L,1,Police & Medical,Sick/Injured Customer,73
+2024-10-01,B DIVISION,L,2,Crew Availability,Crew Availability,33
+2024-10-01,B DIVISION,L,2,Infrastructure & Equipment,Other - CE,2
+2024-10-01,B DIVISION,L,2,Infrastructure & Equipment,Other Infrastructure,60
+2024-10-01,B DIVISION,L,2,Infrastructure & Equipment,Other - Sig,12
+2024-10-01,B DIVISION,L,2,Infrastructure & Equipment,Service Delivery,10
+2024-10-01,B DIVISION,L,2,Planned ROW Work,Subways Maintenance,13
+2024-10-01,B DIVISION,L,2,Police & Medical,Persons on Roadbed,1
+2024-10-01,B DIVISION,L,2,Police & Medical,"Public Conduct, Crime, Police Response",25
+2024-10-01,B DIVISION,M,1,Crew Availability,Crew Availability,158
+2024-10-01,B DIVISION,M,1,External Factors,External Agency or Utility,4
+2024-10-01,B DIVISION,M,1,External Factors,External Debris on Roadbed,35
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Braking,14
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Door-Related,4
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Other - CE,65
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Other Infrastructure,33
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Other Internal Disruptions,16
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Other - Sig,133
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Propulsion,6
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Rail and Roadbed,90
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Service Delivery,27
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Signal Modernization Capital Project,37
+2024-10-01,B DIVISION,M,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,28
+2024-10-01,B DIVISION,M,1,Operating Conditions,Other Operating Environment,71
+2024-10-01,B DIVISION,M,1,Planned ROW Work,Capital Work - Other Planned ROW,57
+2024-10-01,B DIVISION,M,1,Planned ROW Work,Subways Maintenance,192
+2024-10-01,B DIVISION,M,1,Planned ROW Work,Work Equipment,31
+2024-10-01,B DIVISION,M,1,Police & Medical,Persons on Roadbed,36
+2024-10-01,B DIVISION,M,1,Police & Medical,"Public Conduct, Crime, Police Response",126
+2024-10-01,B DIVISION,M,1,Police & Medical,Sick/Injured Customer,23
+2024-10-01,B DIVISION,M,2,Crew Availability,Crew Availability,2
+2024-10-01,B DIVISION,M,2,Infrastructure & Equipment,Other - CE,3
+2024-10-01,B DIVISION,M,2,Infrastructure & Equipment,Other - Sig,10
+2024-10-01,B DIVISION,M,2,Infrastructure & Equipment,Rail and Roadbed,1
+2024-10-01,B DIVISION,M,2,Planned ROW Work,Subways Maintenance,3
+2024-10-01,B DIVISION,M,2,Planned ROW Work,Work Equipment,1
+2024-10-01,B DIVISION,M,2,Police & Medical,"Public Conduct, Crime, Police Response",2
+2024-10-01,B DIVISION,N,1,Crew Availability,Crew Availability,228
+2024-10-01,B DIVISION,N,1,External Factors,External Agency or Utility,1
+2024-10-01,B DIVISION,N,1,External Factors,External Debris on Roadbed,2
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Braking,8
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Door-Related,119
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,"Fire, Smoke, Debris",39
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Other - CE,172
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Other Infrastructure,6
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Other - Sig,256
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Propulsion,152
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Rail and Roadbed,193
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Service Delivery,32
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2024-10-01,B DIVISION,N,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,9
+2024-10-01,B DIVISION,N,1,Operating Conditions,Other Operating Environment,164
+2024-10-01,B DIVISION,N,1,Planned ROW Work,Capital Work - Other Planned ROW,29
+2024-10-01,B DIVISION,N,1,Planned ROW Work,Subways Maintenance,738
+2024-10-01,B DIVISION,N,1,Planned ROW Work,Work Equipment,142
+2024-10-01,B DIVISION,N,1,Police & Medical,Persons on Roadbed,7
+2024-10-01,B DIVISION,N,1,Police & Medical,"Public Conduct, Crime, Police Response",432
+2024-10-01,B DIVISION,N,1,Police & Medical,Sick/Injured Customer,42
+2024-10-01,B DIVISION,N,2,Crew Availability,Crew Availability,42
+2024-10-01,B DIVISION,N,2,External Factors,External Debris on Roadbed,1
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,Door-Related,4
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,"Fire, Smoke, Debris",7
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,Other - CE,10
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,Other Infrastructure,3
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,Other Internal Disruptions,1
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,Other - Sig,37
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,Rail and Roadbed,10
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,Service Delivery,18
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,Signal Modernization Capital Project,2
+2024-10-01,B DIVISION,N,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4
+2024-10-01,B DIVISION,N,2,Operating Conditions,Other Operating Environment,14
+2024-10-01,B DIVISION,N,2,Planned ROW Work,Capital Work - Other Planned ROW,12
+2024-10-01,B DIVISION,N,2,Planned ROW Work,Subways Maintenance,98
+2024-10-01,B DIVISION,N,2,Planned ROW Work,Work Equipment,9
+2024-10-01,B DIVISION,N,2,Police & Medical,Persons on Roadbed,8
+2024-10-01,B DIVISION,N,2,Police & Medical,"Public Conduct, Crime, Police Response",51
+2024-10-01,B DIVISION,N,2,Police & Medical,Sick/Injured Customer,2
+2024-10-01,B DIVISION,Q,1,Crew Availability,Crew Availability,136
+2024-10-01,B DIVISION,Q,1,External Factors,External Agency or Utility,6
+2024-10-01,B DIVISION,Q,1,External Factors,External Debris on Roadbed,6
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Braking,6
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Door-Related,28
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,"Fire, Smoke, Debris",24
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Other - CE,68
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Other - Sig,167
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Propulsion,70
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Rail and Roadbed,139
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Service Delivery,39
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Signal Modernization Capital Project,4
+2024-10-01,B DIVISION,Q,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,12
+2024-10-01,B DIVISION,Q,1,Operating Conditions,Other Operating Environment,106
+2024-10-01,B DIVISION,Q,1,Planned ROW Work,Capital Work - Other Planned ROW,3
+2024-10-01,B DIVISION,Q,1,Planned ROW Work,Insufficient Supplement Schedule,2
+2024-10-01,B DIVISION,Q,1,Planned ROW Work,Subways Maintenance,429
+2024-10-01,B DIVISION,Q,1,Planned ROW Work,Work Equipment,43
+2024-10-01,B DIVISION,Q,1,Police & Medical,Persons on Roadbed,18
+2024-10-01,B DIVISION,Q,1,Police & Medical,"Public Conduct, Crime, Police Response",378
+2024-10-01,B DIVISION,Q,1,Police & Medical,Sick/Injured Customer,61
+2024-10-01,B DIVISION,Q,2,Crew Availability,Crew Availability,26
+2024-10-01,B DIVISION,Q,2,External Factors,External Debris on Roadbed,9
+2024-10-01,B DIVISION,Q,2,Infrastructure & Equipment,Braking,1
+2024-10-01,B DIVISION,Q,2,Infrastructure & Equipment,Door-Related,9
+2024-10-01,B DIVISION,Q,2,Infrastructure & Equipment,Other - CE,6
+2024-10-01,B DIVISION,Q,2,Infrastructure & Equipment,Other Infrastructure,5
+2024-10-01,B DIVISION,Q,2,Infrastructure & Equipment,Other - Sig,23
+2024-10-01,B DIVISION,Q,2,Infrastructure & Equipment,Service Delivery,25
+2024-10-01,B DIVISION,Q,2,Infrastructure & Equipment,Signal Modernization Capital Project,3
+2024-10-01,B DIVISION,Q,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,16
+2024-10-01,B DIVISION,Q,2,Operating Conditions,Other Operating Environment,9
+2024-10-01,B DIVISION,Q,2,Planned ROW Work,Subways Maintenance,32
+2024-10-01,B DIVISION,Q,2,Planned ROW Work,Work Equipment,15
+2024-10-01,B DIVISION,Q,2,Police & Medical,Persons on Roadbed,19
+2024-10-01,B DIVISION,Q,2,Police & Medical,"Public Conduct, Crime, Police Response",37
+2024-10-01,B DIVISION,Q,2,Police & Medical,Sick/Injured Customer,2
+2024-10-01,B DIVISION,R,1,Crew Availability,Crew Availability,122
+2024-10-01,B DIVISION,R,1,External Factors,External Debris on Roadbed,1
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Braking,16
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Door-Related,24
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,"Fire, Smoke, Debris",65
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Other - CE,69
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Other Infrastructure,80
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Other Internal Disruptions,10
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Other - Sig,196
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Propulsion,83
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Rail and Roadbed,152
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Service Delivery,27
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Signal Modernization Capital Project,50
+2024-10-01,B DIVISION,R,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6
+2024-10-01,B DIVISION,R,1,Operating Conditions,Other Operating Environment,94
+2024-10-01,B DIVISION,R,1,Planned ROW Work,Capital Work - Other Planned ROW,25
+2024-10-01,B DIVISION,R,1,Planned ROW Work,Subways Maintenance,264
+2024-10-01,B DIVISION,R,1,Planned ROW Work,Work Equipment,88
+2024-10-01,B DIVISION,R,1,Police & Medical,Persons on Roadbed,5
+2024-10-01,B DIVISION,R,1,Police & Medical,"Public Conduct, Crime, Police Response",234
+2024-10-01,B DIVISION,R,1,Police & Medical,Sick/Injured Customer,20
+2024-10-01,B DIVISION,R,2,Crew Availability,Crew Availability,18
+2024-10-01,B DIVISION,R,2,Infrastructure & Equipment,Braking,6
+2024-10-01,B DIVISION,R,2,Infrastructure & Equipment,Other - CE,5
+2024-10-01,B DIVISION,R,2,Infrastructure & Equipment,Other - Sig,18
+2024-10-01,B DIVISION,R,2,Infrastructure & Equipment,Propulsion,1
+2024-10-01,B DIVISION,R,2,Infrastructure & Equipment,Service Delivery,4
+2024-10-01,B DIVISION,R,2,Infrastructure & Equipment,Signal Modernization Capital Project,4
+2024-10-01,B DIVISION,R,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,1
+2024-10-01,B DIVISION,R,2,Operating Conditions,Other Operating Environment,10
+2024-10-01,B DIVISION,R,2,Planned ROW Work,Capital Work - Other Planned ROW,18
+2024-10-01,B DIVISION,R,2,Planned ROW Work,Subways Maintenance,92
+2024-10-01,B DIVISION,R,2,Planned ROW Work,Work Equipment,6
+2024-10-01,B DIVISION,R,2,Police & Medical,Persons on Roadbed,7
+2024-10-01,B DIVISION,R,2,Police & Medical,"Public Conduct, Crime, Police Response",33
+2024-10-01,B DIVISION,R,2,Police & Medical,Sick/Injured Customer,4
+2024-10-01,B DIVISION,S Fkln,1,Crew Availability,Crew Availability,1
+2024-10-01,B DIVISION,S Fkln,1,External Factors,External Debris on Roadbed,27
+2024-10-01,B DIVISION,S Fkln,1,Infrastructure & Equipment,Door-Related,5
+2024-10-01,B DIVISION,S Fkln,1,Infrastructure & Equipment,Other - Sig,1
+2024-10-01,B DIVISION,S Fkln,1,Planned ROW Work,Subways Maintenance,3
+2024-10-01,B DIVISION,S Fkln,1,Planned ROW Work,Work Equipment,6
+2024-10-01,B DIVISION,S Fkln,1,Police & Medical,"Public Conduct, Crime, Police Response",52
+2024-10-01,B DIVISION,S Fkln,1,Police & Medical,Sick/Injured Customer,5
+2024-10-01,B DIVISION,S Fkln,2,Police & Medical,"Public Conduct, Crime, Police Response",2
+2024-10-01,B DIVISION,S Rock,1,Crew Availability,Crew Availability,9
+2024-10-01,B DIVISION,S Rock,1,External Factors,External Agency or Utility,114
+2024-10-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Door-Related,2
+2024-10-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Other - Sig,24
+2024-10-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Service Delivery,1
+2024-10-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2
+2024-10-01,B DIVISION,S Rock,1,Operating Conditions,Other Operating Environment,2
+2024-10-01,B DIVISION,S Rock,1,Planned ROW Work,Capital Work - Other Planned ROW,4
+2024-10-01,B DIVISION,S Rock,1,Planned ROW Work,Subways Maintenance,37
+2024-10-01,B DIVISION,S Rock,1,Planned ROW Work,Work Equipment,1
+2024-10-01,B DIVISION,S Rock,1,Police & Medical,"Public Conduct, Crime, Police Response",25
+2024-10-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,14
+2024-10-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",1
 2024-09-01,A DIVISION,1,1,Crew Availability,Crew Availability,46
 2024-09-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,32
 2024-09-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,43
@@ -362,8 +1051,8 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-09-01,B DIVISION,D,2,Infrastructure & Equipment,Service Delivery,8
 2024-09-01,B DIVISION,D,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4
 2024-09-01,B DIVISION,D,2,Operating Conditions,Other Operating Environment,29
-2024-09-01,B DIVISION,D,2,Planned ROW Work,Capital Work - Other Planned ROW,31
-2024-09-01,B DIVISION,D,2,Planned ROW Work,Subways Maintenance,62
+2024-09-01,B DIVISION,D,2,Planned ROW Work,Capital Work - Other Planned ROW,28
+2024-09-01,B DIVISION,D,2,Planned ROW Work,Subways Maintenance,65
 2024-09-01,B DIVISION,D,2,Planned ROW Work,Work Equipment,1
 2024-09-01,B DIVISION,D,2,Police & Medical,Persons on Roadbed,2
 2024-09-01,B DIVISION,D,2,Police & Medical,"Public Conduct, Crime, Police Response",66
@@ -595,8 +1284,8 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-09-01,B DIVISION,N,2,Infrastructure & Equipment,Service Delivery,4
 2024-09-01,B DIVISION,N,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,8
 2024-09-01,B DIVISION,N,2,Operating Conditions,Other Operating Environment,54
-2024-09-01,B DIVISION,N,2,Planned ROW Work,Capital Work - Other Planned ROW,22
-2024-09-01,B DIVISION,N,2,Planned ROW Work,Subways Maintenance,209
+2024-09-01,B DIVISION,N,2,Planned ROW Work,Capital Work - Other Planned ROW,14
+2024-09-01,B DIVISION,N,2,Planned ROW Work,Subways Maintenance,217
 2024-09-01,B DIVISION,N,2,Planned ROW Work,Work Equipment,14
 2024-09-01,B DIVISION,N,2,Police & Medical,Persons on Roadbed,8
 2024-09-01,B DIVISION,N,2,Police & Medical,"Public Conduct, Crime, Police Response",79
@@ -667,8 +1356,8 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-09-01,B DIVISION,R,2,Infrastructure & Equipment,Signal Modernization Capital Project,1
 2024-09-01,B DIVISION,R,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2
 2024-09-01,B DIVISION,R,2,Operating Conditions,Other Operating Environment,12
-2024-09-01,B DIVISION,R,2,Planned ROW Work,Capital Work - Other Planned ROW,24
-2024-09-01,B DIVISION,R,2,Planned ROW Work,Subways Maintenance,38
+2024-09-01,B DIVISION,R,2,Planned ROW Work,Capital Work - Other Planned ROW,19
+2024-09-01,B DIVISION,R,2,Planned ROW Work,Subways Maintenance,43
 2024-09-01,B DIVISION,R,2,Planned ROW Work,Work Equipment,2
 2024-09-01,B DIVISION,R,2,Police & Medical,Persons on Roadbed,8
 2024-09-01,B DIVISION,R,2,Police & Medical,"Public Conduct, Crime, Police Response",29
@@ -697,18 +1386,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-09-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Braking,6
 2024-09-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,2
 2024-09-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",2
-2024-09-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1709
-2024-09-01,Systemwide,Systemwide,1,External Factors,Systemwide,264
-2024-09-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,10454
-2024-09-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,2882
-2024-09-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,8038
-2024-09-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,7714
-2024-09-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,529
-2024-09-01,Systemwide,Systemwide,2,External Factors,Systemwide,129
-2024-09-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1644
-2024-09-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1122
-2024-09-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2602
-2024-09-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1771
 2024-08-01,A DIVISION,1,1,Crew Availability,Crew Availability,136
 2024-08-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,11
 2024-08-01,A DIVISION,1,1,External Factors,Inclement Weather,5
@@ -1416,18 +2093,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-08-01,B DIVISION,S Rock,2,Operating Conditions,,11
 2024-08-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,3
 2024-08-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",17
-2024-08-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,2541
-2024-08-01,Systemwide,Systemwide,1,External Factors,Systemwide,569
-2024-08-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,12510
-2024-08-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,3867
-2024-08-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,7500
-2024-08-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6181
-2024-08-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,680
-2024-08-01,Systemwide,Systemwide,2,External Factors,Systemwide,82
-2024-08-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1432
-2024-08-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1520
-2024-08-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2763
-2024-08-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1458
 2024-07-01,A DIVISION,1,1,Crew Availability,Crew Availability,179
 2024-07-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,8
 2024-07-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,96
@@ -2127,18 +2792,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-07-01,B DIVISION,S Rock,2,Operating Conditions,,4
 2024-07-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,8
 2024-07-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",7
-2024-07-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3329
-2024-07-01,Systemwide,Systemwide,1,External Factors,Systemwide,487
-2024-07-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,12019
-2024-07-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,3500
-2024-07-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,6959
-2024-07-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6379
-2024-07-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,741
-2024-07-01,Systemwide,Systemwide,2,External Factors,Systemwide,152
-2024-07-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1530
-2024-07-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1613
-2024-07-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2717
-2024-07-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1155
 2024-06-01,A DIVISION,1,1,Crew Availability,Crew Availability,80
 2024-06-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,5
 2024-06-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,36
@@ -2838,18 +3491,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-06-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Service Delivery,1
 2024-06-01,B DIVISION,S Rock,2,Operating Conditions,,2
 2024-06-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,6
-2024-06-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,2590
-2024-06-01,Systemwide,Systemwide,1,External Factors,Systemwide,882
-2024-06-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,7906
-2024-06-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,2839
-2024-06-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5481
-2024-06-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,5568
-2024-06-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1203
-2024-06-01,Systemwide,Systemwide,2,External Factors,Systemwide,126
-2024-06-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1607
-2024-06-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1826
-2024-06-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,3667
-2024-06-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1768
 2024-05-01,A DIVISION,1,1,Crew Availability,Crew Availability,50
 2024-05-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,7
 2024-05-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,66
@@ -3545,18 +4186,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-05-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,19
 2024-05-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Rail and Roadbed,2
 2024-05-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
-2024-05-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1800
-2024-05-01,Systemwide,Systemwide,1,External Factors,Systemwide,633
-2024-05-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,9684
-2024-05-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,3182
-2024-05-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,7448
-2024-05-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,8756
-2024-05-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,654
-2024-05-01,Systemwide,Systemwide,2,External Factors,Systemwide,86
-2024-05-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1214
-2024-05-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1126
-2024-05-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2786
-2024-05-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1304
 2024-04-01,A DIVISION,1,1,Crew Availability,Crew Availability,49
 2024-04-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,64
 2024-04-01,A DIVISION,1,1,External Factors,Inclement Weather,11
@@ -4275,18 +4904,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-04-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,3
 2024-04-01,B DIVISION,S Rock,2,Police & Medical,Persons on Roadbed,1
 2024-04-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",1
-2024-04-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1525
-2024-04-01,Systemwide,Systemwide,1,External Factors,Systemwide,870
-2024-04-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,10919
-2024-04-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4314
-2024-04-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,8024
-2024-04-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,8363
-2024-04-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,411
-2024-04-01,Systemwide,Systemwide,2,External Factors,Systemwide,70
-2024-04-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1435
-2024-04-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1064
-2024-04-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2791
-2024-04-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1461
 2024-03-01,A DIVISION,1,1,Crew Availability,Crew Availability,44
 2024-03-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,42
 2024-03-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,41
@@ -4999,18 +5616,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-03-01,B DIVISION,S Rock,2,Operating Conditions,,5
 2024-03-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
 2024-03-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
-2024-03-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1860
-2024-03-01,Systemwide,Systemwide,1,External Factors,Systemwide,423
-2024-03-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,10222
-2024-03-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5437
-2024-03-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,7729
-2024-03-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,8011
-2024-03-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,565
-2024-03-01,Systemwide,Systemwide,2,External Factors,Systemwide,170
-2024-03-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1718
-2024-03-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1772
-2024-03-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2619
-2024-03-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1645
 2024-02-01,A DIVISION,1,1,Crew Availability,Crew Availability,141
 2024-02-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,8
 2024-02-01,A DIVISION,1,1,External Factors,Inclement Weather,15
@@ -5751,18 +6356,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-02-01,B DIVISION,S Rock,2,Operating Conditions,,2
 2024-02-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
 2024-02-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",5
-2024-02-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3222
-2024-02-01,Systemwide,Systemwide,1,External Factors,Systemwide,968
-2024-02-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,8618
-2024-02-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4648
-2024-02-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,7044
-2024-02-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,7477
-2024-02-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,896
-2024-02-01,Systemwide,Systemwide,2,External Factors,Systemwide,260
-2024-02-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,2153
-2024-02-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1850
-2024-02-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,4464
-2024-02-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1669
 2024-01-01,A DIVISION,1,1,Crew Availability,Crew Availability,94
 2024-01-01,A DIVISION,1,1,External Factors,External Agency or Utility,1
 2024-01-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,5
@@ -6482,18 +7075,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2024-01-01,B DIVISION,S Rock,2,Operating Conditions,,2
 2024-01-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
 2024-01-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",4
-2024-01-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,4029
-2024-01-01,Systemwide,Systemwide,1,External Factors,Systemwide,833
-2024-01-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,12112
-2024-01-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4536
-2024-01-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,7093
-2024-01-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,9263
-2024-01-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1120
-2024-01-01,Systemwide,Systemwide,2,External Factors,Systemwide,105
-2024-01-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1789
-2024-01-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1553
-2024-01-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2101
-2024-01-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1390
 2023-12-01,A DIVISION,1,1,Crew Availability,Crew Availability,221
 2023-12-01,A DIVISION,1,1,External Factors,External Agency or Utility,13
 2023-12-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,113
@@ -7210,18 +7791,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-12-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,9
 2023-12-01,B DIVISION,S Rock,2,Operating Conditions,,1
 2023-12-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,11
-2023-12-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,7225
-2023-12-01,Systemwide,Systemwide,1,External Factors,Systemwide,919
-2023-12-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6376
-2023-12-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4922
-2023-12-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5769
-2023-12-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,8209
-2023-12-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1991
-2023-12-01,Systemwide,Systemwide,2,External Factors,Systemwide,299
-2023-12-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1396
-2023-12-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1917
-2023-12-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2492
-2023-12-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,2006
 2023-11-01,A DIVISION,1,1,Crew Availability,Crew Availability,143
 2023-11-01,A DIVISION,1,1,External Factors,External Agency or Utility,89
 2023-11-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,87
@@ -7876,18 +8445,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-11-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
 2023-11-01,B DIVISION,S Rock,2,Planned ROW Work,Work Equipment,1
 2023-11-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
-2023-11-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,4415
-2023-11-01,Systemwide,Systemwide,1,External Factors,Systemwide,869
-2023-11-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6807
-2023-11-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5815
-2023-11-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,6151
-2023-11-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6306
-2023-11-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1131
-2023-11-01,Systemwide,Systemwide,2,External Factors,Systemwide,99
-2023-11-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1136
-2023-11-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,2047
-2023-11-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2096
-2023-11-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1565
 2023-10-01,A DIVISION,1,1,Crew Availability,Crew Availability,220
 2023-10-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,34
 2023-10-01,A DIVISION,1,1,External Factors,Inclement Weather,7
@@ -8560,18 +9117,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-10-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Braking,1
 2023-10-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,12
 2023-10-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,3
-2023-10-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,4434
-2023-10-01,Systemwide,Systemwide,1,External Factors,Systemwide,774
-2023-10-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,7319
-2023-10-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,6376
-2023-10-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,6381
-2023-10-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,7689
-2023-10-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1586
-2023-10-01,Systemwide,Systemwide,2,External Factors,Systemwide,100
-2023-10-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1671
-2023-10-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1708
-2023-10-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1679
-2023-10-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1296
 2023-09-01,A DIVISION,1,1,Crew Availability,Crew Availability,141
 2023-09-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,7
 2023-09-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,37
@@ -9301,18 +9846,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-09-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,4
 2023-09-01,B DIVISION,S Rock,2,Planned ROW Work,Work Equipment,1
 2023-09-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",2
-2023-09-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3324
-2023-09-01,Systemwide,Systemwide,1,External Factors,Systemwide,1801
-2023-09-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,10497
-2023-09-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5708
-2023-09-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5682
-2023-09-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6546
-2023-09-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1160
-2023-09-01,Systemwide,Systemwide,2,External Factors,Systemwide,345
-2023-09-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1508
-2023-09-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1664
-2023-09-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2485
-2023-09-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1301
 2023-08-01,A DIVISION,1,1,Crew Availability,Crew Availability,193
 2023-08-01,A DIVISION,1,1,External Factors,External Agency or Utility,111
 2023-08-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,15
@@ -9962,18 +10495,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-08-01,B DIVISION,S Rock,2,Operating Conditions,,7
 2023-08-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,11
 2023-08-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
-2023-08-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,4308
-2023-08-01,Systemwide,Systemwide,1,External Factors,Systemwide,968
-2023-08-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,8705
-2023-08-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5146
-2023-08-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,6283
-2023-08-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,5672
-2023-08-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1152
-2023-08-01,Systemwide,Systemwide,2,External Factors,Systemwide,123
-2023-08-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,810
-2023-08-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1360
-2023-08-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1377
-2023-08-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,889
 2023-07-01,A DIVISION,1,1,Crew Availability,Crew Availability,93
 2023-07-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,17
 2023-07-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,24
@@ -10690,18 +11211,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-07-01,B DIVISION,S Rock,2,Operating Conditions,,8
 2023-07-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,16
 2023-07-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",11
-2023-07-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3284
-2023-07-01,Systemwide,Systemwide,1,External Factors,Systemwide,525
-2023-07-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,9084
-2023-07-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4814
-2023-07-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5211
-2023-07-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,5647
-2023-07-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1082
-2023-07-01,Systemwide,Systemwide,2,External Factors,Systemwide,150
-2023-07-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,2465
-2023-07-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,2070
-2023-07-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2473
-2023-07-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1430
 2023-06-01,A DIVISION,1,1,Crew Availability,Crew Availability,80
 2023-06-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,62
 2023-06-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,16
@@ -11379,18 +11888,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-06-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,3
 2023-06-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",2
 2023-06-01,B DIVISION,S Rock,2,Police & Medical,Sick/Injured Customer,14
-2023-06-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3256
-2023-06-01,Systemwide,Systemwide,1,External Factors,Systemwide,358
-2023-06-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,7557
-2023-06-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4953
-2023-06-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5941
-2023-06-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,5863
-2023-06-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1111
-2023-06-01,Systemwide,Systemwide,2,External Factors,Systemwide,99
-2023-06-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1446
-2023-06-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1803
-2023-06-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2143
-2023-06-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1266
 2023-05-01,A DIVISION,1,1,Crew Availability,Crew Availability,80
 2023-05-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,34
 2023-05-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,27
@@ -12076,18 +12573,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-05-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,10
 2023-05-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",1
 2023-05-01,B DIVISION,S Rock,2,Police & Medical,Sick/Injured Customer,2
-2023-05-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,2247
-2023-05-01,Systemwide,Systemwide,1,External Factors,Systemwide,446
-2023-05-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,9859
-2023-05-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5869
-2023-05-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5928
-2023-05-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,7081
-2023-05-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,884
-2023-05-01,Systemwide,Systemwide,2,External Factors,Systemwide,161
-2023-05-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1300
-2023-05-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,2032
-2023-05-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1914
-2023-05-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1558
 2023-04-01,A DIVISION,1,1,Crew Availability,Crew Availability,71
 2023-04-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,44
 2023-04-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,17
@@ -12759,18 +13244,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-04-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - CE,2
 2023-04-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,8
 2023-04-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
-2023-04-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1713
-2023-04-01,Systemwide,Systemwide,1,External Factors,Systemwide,327
-2023-04-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,7390
-2023-04-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4755
-2023-04-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4493
-2023-04-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6001
-2023-04-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,873
-2023-04-01,Systemwide,Systemwide,2,External Factors,Systemwide,157
-2023-04-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1900
-2023-04-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1983
-2023-04-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2125
-2023-04-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1192
 2023-03-01,A DIVISION,1,1,Crew Availability,Crew Availability,46
 2023-03-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,37
 2023-03-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,8
@@ -13457,18 +13930,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-03-01,B DIVISION,S Rock,2,External Factors,External Debris on Roadbed,2
 2023-03-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,2
 2023-03-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,10
-2023-03-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1820
-2023-03-01,Systemwide,Systemwide,1,External Factors,Systemwide,1103
-2023-03-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,9643
-2023-03-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5880
-2023-03-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5642
-2023-03-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,7433
-2023-03-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,700
-2023-03-01,Systemwide,Systemwide,2,External Factors,Systemwide,116
-2023-03-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,967
-2023-03-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1424
-2023-03-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1794
-2023-03-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1177
 2023-02-01,A DIVISION,1,1,Crew Availability,Crew Availability,52
 2023-02-01,A DIVISION,1,1,External Factors,Inclement Weather,9
 2023-02-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,4
@@ -14153,18 +14614,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-02-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Service Delivery,1
 2023-02-01,B DIVISION,S Rock,2,Operating Conditions,,2
 2023-02-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",1
-2023-02-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1714
-2023-02-01,Systemwide,Systemwide,1,External Factors,Systemwide,467
-2023-02-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6344
-2023-02-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4267
-2023-02-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4528
-2023-02-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6292
-2023-02-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,615
-2023-02-01,Systemwide,Systemwide,2,External Factors,Systemwide,70
-2023-02-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1557
-2023-02-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1381
-2023-02-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2647
-2023-02-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1593
 2023-01-01,A DIVISION,1,1,Crew Availability,Crew Availability,11
 2023-01-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,18
 2023-01-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,31
@@ -14865,18 +15314,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2023-01-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,7
 2023-01-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other Infrastructure,10
 2023-01-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
-2023-01-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1012
-2023-01-01,Systemwide,Systemwide,1,External Factors,Systemwide,681
-2023-01-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,8128
-2023-01-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4597
-2023-01-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5078
-2023-01-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6305
-2023-01-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,485
-2023-01-01,Systemwide,Systemwide,2,External Factors,Systemwide,105
-2023-01-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1427
-2023-01-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1328
-2023-01-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1942
-2023-01-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1386
 2022-12-01,A DIVISION,1,1,Crew Availability,Crew Availability,102
 2022-12-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,23
 2022-12-01,A DIVISION,1,1,External Factors,Inclement Weather,2
@@ -15606,18 +16043,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-12-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,2
 2022-12-01,B DIVISION,S Rock,2,Operating Conditions,,7
 2022-12-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",4
-2022-12-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3329
-2022-12-01,Systemwide,Systemwide,1,External Factors,Systemwide,1032
-2022-12-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,9904
-2022-12-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5694
-2022-12-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4408
-2022-12-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6070
-2022-12-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1332
-2022-12-01,Systemwide,Systemwide,2,External Factors,Systemwide,330
-2022-12-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1977
-2022-12-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,2041
-2022-12-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1599
-2022-12-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1559
 2022-11-01,A DIVISION,1,1,Crew Availability,Crew Availability,62
 2022-11-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,24
 2022-11-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,63
@@ -16330,18 +16755,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-11-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
 2022-11-01,B DIVISION,S Rock,2,Police & Medical,Persons on Roadbed,1
 2022-11-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",6
-2022-11-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,2808
-2022-11-01,Systemwide,Systemwide,1,External Factors,Systemwide,748
-2022-11-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,10813
-2022-11-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5784
-2022-11-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4830
-2022-11-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6189
-2022-11-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1057
-2022-11-01,Systemwide,Systemwide,2,External Factors,Systemwide,536
-2022-11-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1366
-2022-11-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1716
-2022-11-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2062
-2022-11-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1201
 2022-10-01,A DIVISION,1,1,Crew Availability,Crew Availability,112
 2022-10-01,A DIVISION,1,1,External Factors,External Agency or Utility,15
 2022-10-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,12
@@ -17081,18 +17494,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-10-01,B DIVISION,S Rock,2,Planned ROW Work,Capital Work - Other Planned ROW,1
 2022-10-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,13
 2022-10-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",1
-2022-10-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3503
-2022-10-01,Systemwide,Systemwide,1,External Factors,Systemwide,929
-2022-10-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,9580
-2022-10-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,6208
-2022-10-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5406
-2022-10-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,7697
-2022-10-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,2244
-2022-10-01,Systemwide,Systemwide,2,External Factors,Systemwide,271
-2022-10-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1648
-2022-10-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,2549
-2022-10-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2724
-2022-10-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1663
 2022-09-01,A DIVISION,1,1,Crew Availability,Crew Availability,146
 2022-09-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,86
 2022-09-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,12
@@ -17811,18 +18212,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-09-01,B DIVISION,S Rock,2,Planned ROW Work,Capital Work - Other Planned ROW,1
 2022-09-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,6
 2022-09-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",1
-2022-09-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3806
-2022-09-01,Systemwide,Systemwide,1,External Factors,Systemwide,971
-2022-09-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,9826
-2022-09-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5574
-2022-09-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5035
-2022-09-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,7208
-2022-09-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1537
-2022-09-01,Systemwide,Systemwide,2,External Factors,Systemwide,117
-2022-09-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1254
-2022-09-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1727
-2022-09-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2193
-2022-09-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1551
 2022-08-01,A DIVISION,1,1,Crew Availability,Crew Availability,144
 2022-08-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,12
 2022-08-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,11
@@ -18506,18 +18895,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-08-01,B DIVISION,S Rock,2,Operating Conditions,,12
 2022-08-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,2
 2022-08-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",14
-2022-08-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,6996
-2022-08-01,Systemwide,Systemwide,1,External Factors,Systemwide,798
-2022-08-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,8625
-2022-08-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5308
-2022-08-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5546
-2022-08-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,5725
-2022-08-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,2324
-2022-08-01,Systemwide,Systemwide,2,External Factors,Systemwide,108
-2022-08-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1809
-2022-08-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1911
-2022-08-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1764
-2022-08-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,980
 2022-07-01,A DIVISION,1,1,Crew Availability,Crew Availability,172
 2022-07-01,A DIVISION,1,1,External Factors,External Agency or Utility,7
 2022-07-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,15
@@ -19250,18 +19627,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-07-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,7
 2022-07-01,B DIVISION,S Rock,2,Police & Medical,Persons on Roadbed,1
 2022-07-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",2
-2022-07-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,8982
-2022-07-01,Systemwide,Systemwide,1,External Factors,Systemwide,1069
-2022-07-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,10507
-2022-07-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4937
-2022-07-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4354
-2022-07-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,4893
-2022-07-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,2777
-2022-07-01,Systemwide,Systemwide,2,External Factors,Systemwide,191
-2022-07-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1811
-2022-07-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,2708
-2022-07-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2484
-2022-07-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1769
 2022-06-01,A DIVISION,1,1,Crew Availability,Crew Availability,378
 2022-06-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,53
 2022-06-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,43
@@ -19926,18 +20291,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-06-01,B DIVISION,S Rock,2,Operating Conditions,,16
 2022-06-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
 2022-06-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",10
-2022-06-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,8676
-2022-06-01,Systemwide,Systemwide,1,External Factors,Systemwide,450
-2022-06-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,8067
-2022-06-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5208
-2022-06-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4702
-2022-06-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,5740
-2022-06-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,3061
-2022-06-01,Systemwide,Systemwide,2,External Factors,Systemwide,203
-2022-06-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1082
-2022-06-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1996
-2022-06-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1983
-2022-06-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1069
 2022-05-01,A DIVISION,1,1,Crew Availability,Crew Availability,386
 2022-05-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,49
 2022-05-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,11
@@ -20622,18 +20975,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-05-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - CE,1
 2022-05-01,B DIVISION,S Rock,2,Operating Conditions,,4
 2022-05-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
-2022-05-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,7811
-2022-05-01,Systemwide,Systemwide,1,External Factors,Systemwide,739
-2022-05-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6593
-2022-05-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4686
-2022-05-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4388
-2022-05-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,5802
-2022-05-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,2936
-2022-05-01,Systemwide,Systemwide,2,External Factors,Systemwide,140
-2022-05-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1918
-2022-05-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,2573
-2022-05-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2747
-2022-05-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1726
 2022-04-01,A DIVISION,1,1,Crew Availability,Crew Availability,280
 2022-04-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,42
 2022-04-01,A DIVISION,1,1,Infrastructure & Equipment,"Fire, Smoke, Debris",106
@@ -21281,18 +21622,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-04-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,12
 2022-04-01,B DIVISION,S Rock,2,Operating Conditions,,1
 2022-04-01,B DIVISION,S Rock,2,Police & Medical,Persons on Roadbed,2
-2022-04-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,5398
-2022-04-01,Systemwide,Systemwide,1,External Factors,Systemwide,412
-2022-04-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,7416
-2022-04-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4800
-2022-04-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4085
-2022-04-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,7796
-2022-04-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,2731
-2022-04-01,Systemwide,Systemwide,2,External Factors,Systemwide,112
-2022-04-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1176
-2022-04-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,2031
-2022-04-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2663
-2022-04-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1495
 2022-03-01,A DIVISION,1,1,Crew Availability,Crew Availability,80
 2022-03-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,62
 2022-03-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,11
@@ -21981,18 +22310,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-03-01,B DIVISION,S Rock,2,External Factors,Inclement Weather,1
 2022-03-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Door-Related,1
 2022-03-01,B DIVISION,S Rock,2,Operating Conditions,,2
-2022-03-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,4488
-2022-03-01,Systemwide,Systemwide,1,External Factors,Systemwide,950
-2022-03-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,9277
-2022-03-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,5413
-2022-03-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5163
-2022-03-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,8392
-2022-03-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1896
-2022-03-01,Systemwide,Systemwide,2,External Factors,Systemwide,245
-2022-03-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1128
-2022-03-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1768
-2022-03-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2128
-2022-03-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1726
 2022-02-01,A DIVISION,1,1,Crew Availability,Crew Availability,161
 2022-02-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,3
 2022-02-01,A DIVISION,1,1,External Factors,Inclement Weather,3
@@ -22688,18 +23005,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-02-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,1
 2022-02-01,B DIVISION,S Rock,2,Planned ROW Work,Capital Work - Other Planned ROW,4
 2022-02-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",1
-2022-02-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,4115
-2022-02-01,Systemwide,Systemwide,1,External Factors,Systemwide,834
-2022-02-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,8093
-2022-02-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4440
-2022-02-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3959
-2022-02-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6958
-2022-02-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,2185
-2022-02-01,Systemwide,Systemwide,2,External Factors,Systemwide,249
-2022-02-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1388
-2022-02-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,2015
-2022-02-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2757
-2022-02-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,2077
 2022-01-01,A DIVISION,1,1,Crew Availability,Crew Availability,360
 2022-01-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,11
 2022-01-01,A DIVISION,1,1,External Factors,Inclement Weather,3
@@ -23443,18 +23748,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2022-01-01,B DIVISION,S Rock,2,Operating Conditions,,5
 2022-01-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,2
 2022-01-01,B DIVISION,S Rock,2,Police & Medical,Persons on Roadbed,5
-2022-01-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,6353
-2022-01-01,Systemwide,Systemwide,1,External Factors,Systemwide,1164
-2022-01-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6513
-2022-01-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,3620
-2022-01-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3622
-2022-01-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6256
-2022-01-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,4210
-2022-01-01,Systemwide,Systemwide,2,External Factors,Systemwide,2084
-2022-01-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,2610
-2022-01-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1259
-2022-01-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1061
-2022-01-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1698
 2021-12-01,A DIVISION,1,1,Crew Availability,Crew Availability,606
 2021-12-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,42
 2021-12-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,2
@@ -24103,18 +24396,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-12-01,B DIVISION,S Rock,2,Operating Conditions,,4
 2021-12-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
 2021-12-01,B DIVISION,S Rock,2,Police & Medical,Sick/Injured Customer,1
-2021-12-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,13282
-2021-12-01,Systemwide,Systemwide,1,External Factors,Systemwide,517
-2021-12-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,5973
-2021-12-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,4115
-2021-12-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3731
-2021-12-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,5436
-2021-12-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,4561
-2021-12-01,Systemwide,Systemwide,2,External Factors,Systemwide,237
-2021-12-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,823
-2021-12-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1189
-2021-12-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1332
-2021-12-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,2218
 2021-11-01,A DIVISION,1,1,Crew Availability,Crew Availability,232
 2021-11-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,40
 2021-11-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,5
@@ -24777,18 +25058,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-11-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Service Delivery,2
 2021-11-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4
 2021-11-01,B DIVISION,S Rock,2,Police & Medical,Persons on Roadbed,4
-2021-11-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,8096
-2021-11-01,Systemwide,Systemwide,1,External Factors,Systemwide,615
-2021-11-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,7034
-2021-11-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,3562
-2021-11-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3839
-2021-11-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,5793
-2021-11-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,2295
-2021-11-01,Systemwide,Systemwide,2,External Factors,Systemwide,169
-2021-11-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,961
-2021-11-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1388
-2021-11-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1848
-2021-11-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1522
 2021-10-01,A DIVISION,1,1,Crew Availability,Crew Availability,532
 2021-10-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,26
 2021-10-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,8
@@ -25462,18 +25731,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-10-01,B DIVISION,S Rock,2,Operating Conditions,,1
 2021-10-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
 2021-10-01,B DIVISION,S Rock,2,Police & Medical,Persons on Roadbed,1
-2021-10-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,10623
-2021-10-01,Systemwide,Systemwide,1,External Factors,Systemwide,470
-2021-10-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6206
-2021-10-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,3555
-2021-10-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4201
-2021-10-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3774
-2021-10-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,3354
-2021-10-01,Systemwide,Systemwide,2,External Factors,Systemwide,158
-2021-10-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1360
-2021-10-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1557
-2021-10-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2042
-2021-10-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1037
 2021-09-01,A DIVISION,1,1,Crew Availability,Crew Availability,771
 2021-09-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,28
 2021-09-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,22
@@ -26128,18 +26385,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-09-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Service Delivery,1
 2021-09-01,B DIVISION,S Rock,2,Operating Conditions,,2
 2021-09-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",4
-2021-09-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,11398
-2021-09-01,Systemwide,Systemwide,1,External Factors,Systemwide,730
-2021-09-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,8866
-2021-09-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,3673
-2021-09-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3724
-2021-09-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3117
-2021-09-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,3588
-2021-09-01,Systemwide,Systemwide,2,External Factors,Systemwide,144
-2021-09-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1118
-2021-09-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1174
-2021-09-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1583
-2021-09-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,854
 2021-08-01,A DIVISION,1,1,Crew Availability,Crew Availability,997
 2021-08-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,4
 2021-08-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,11
@@ -26796,18 +27041,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-08-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,9
 2021-08-01,B DIVISION,S Rock,2,Operating Conditions,,9
 2021-08-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
-2021-08-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,13493
-2021-08-01,Systemwide,Systemwide,1,External Factors,Systemwide,406
-2021-08-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,7081
-2021-08-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,3111
-2021-08-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3174
-2021-08-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,2651
-2021-08-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,3307
-2021-08-01,Systemwide,Systemwide,2,External Factors,Systemwide,378
-2021-08-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1652
-2021-08-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,882
-2021-08-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1151
-2021-08-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,823
 2021-07-01,A DIVISION,1,1,Crew Availability,Crew Availability,765
 2021-07-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,22
 2021-07-01,A DIVISION,1,1,External Factors,Inclement Weather,1
@@ -27479,18 +27712,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-07-01,B DIVISION,S Rock,2,Operating Conditions,,5
 2021-07-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,3
 2021-07-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",1
-2021-07-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,10233
-2021-07-01,Systemwide,Systemwide,1,External Factors,Systemwide,577
-2021-07-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,8860
-2021-07-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,2414
-2021-07-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3805
-2021-07-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3182
-2021-07-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,2223
-2021-07-01,Systemwide,Systemwide,2,External Factors,Systemwide,105
-2021-07-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1476
-2021-07-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1044
-2021-07-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1256
-2021-07-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,816
 2021-06-01,A DIVISION,1,1,Crew Availability,Crew Availability,593
 2021-06-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,10
 2021-06-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,19
@@ -28139,18 +28360,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-06-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other Infrastructure,8
 2021-06-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Service Delivery,1
 2021-06-01,B DIVISION,S Rock,2,Operating Conditions,,4
-2021-06-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,8513
-2021-06-01,Systemwide,Systemwide,1,External Factors,Systemwide,446
-2021-06-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,10614
-2021-06-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,2609
-2021-06-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3713
-2021-06-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3371
-2021-06-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,3223
-2021-06-01,Systemwide,Systemwide,2,External Factors,Systemwide,66
-2021-06-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1098
-2021-06-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1438
-2021-06-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1409
-2021-06-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,646
 2021-05-01,A DIVISION,1,1,Crew Availability,Crew Availability,297
 2021-05-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,10
 2021-05-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,5
@@ -28821,18 +29030,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-05-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,9
 2021-05-01,B DIVISION,S Rock,2,Operating Conditions,,1
 2021-05-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,3
-2021-05-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,5410
-2021-05-01,Systemwide,Systemwide,1,External Factors,Systemwide,772
-2021-05-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6493
-2021-05-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1792
-2021-05-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3017
-2021-05-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3324
-2021-05-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,2625
-2021-05-01,Systemwide,Systemwide,2,External Factors,Systemwide,347
-2021-05-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1304
-2021-05-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,978
-2021-05-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1399
-2021-05-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1016
 2021-04-01,A DIVISION,1,1,Crew Availability,Crew Availability,302
 2021-04-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,120
 2021-04-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,1
@@ -29424,18 +29621,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-04-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,13
 2021-04-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,1
 2021-04-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Propulsion,1
-2021-04-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3295
-2021-04-01,Systemwide,Systemwide,1,External Factors,Systemwide,453
-2021-04-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,4820
-2021-04-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1628
-2021-04-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,2619
-2021-04-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3002
-2021-04-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1424
-2021-04-01,Systemwide,Systemwide,2,External Factors,Systemwide,116
-2021-04-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,690
-2021-04-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,901
-2021-04-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1220
-2021-04-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,713
 2021-03-01,A DIVISION,1,1,Crew Availability,Crew Availability,474
 2021-03-01,A DIVISION,1,1,External Factors,Inclement Weather,10
 2021-03-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,16
@@ -30035,18 +30220,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-03-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Service Delivery,3
 2021-03-01,B DIVISION,S Rock,1,Operating Conditions,,4
 2021-03-01,B DIVISION,S Rock,1,Police & Medical,"Public Conduct, Crime, Police Response",6
-2021-03-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,4564
-2021-03-01,Systemwide,Systemwide,1,External Factors,Systemwide,340
-2021-03-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,5150
-2021-03-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1829
-2021-03-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3370
-2021-03-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3885
-2021-03-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1375
-2021-03-01,Systemwide,Systemwide,2,External Factors,Systemwide,39
-2021-03-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,701
-2021-03-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,630
-2021-03-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,980
-2021-03-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,790
 2021-02-01,A DIVISION,1,1,Crew Availability,Crew Availability,455
 2021-02-01,A DIVISION,1,1,External Factors,External Agency or Utility,55
 2021-02-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,1
@@ -30715,18 +30888,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-02-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,3
 2021-02-01,B DIVISION,S Rock,2,Operating Conditions,,4
 2021-02-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",32
-2021-02-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,5210
-2021-02-01,Systemwide,Systemwide,1,External Factors,Systemwide,3500
-2021-02-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,5801
-2021-02-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1562
-2021-02-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,2157
-2021-02-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3618
-2021-02-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1982
-2021-02-01,Systemwide,Systemwide,2,External Factors,Systemwide,344
-2021-02-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1199
-2021-02-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,873
-2021-02-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,934
-2021-02-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,959
 2021-01-01,A DIVISION,1,1,Crew Availability,Crew Availability,177
 2021-01-01,A DIVISION,1,1,External Factors,External Agency or Utility,1
 2021-01-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,16
@@ -31370,18 +31531,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2021-01-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Door-Related,1
 2021-01-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,1
 2021-01-01,B DIVISION,S Rock,2,Operating Conditions,,1
-2021-01-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1438
-2021-01-01,Systemwide,Systemwide,1,External Factors,Systemwide,610
-2021-01-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6341
-2021-01-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1727
-2021-01-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,2671
-2021-01-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3457
-2021-01-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1152
-2021-01-01,Systemwide,Systemwide,2,External Factors,Systemwide,115
-2021-01-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1584
-2021-01-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,981
-2021-01-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1314
-2021-01-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1211
 2020-12-01,A DIVISION,1,1,Crew Availability,Crew Availability,398
 2020-12-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,6
 2020-12-01,A DIVISION,1,1,External Factors,Inclement Weather,40
@@ -32031,18 +32180,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-12-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,4
 2020-12-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,14
 2020-12-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Service Delivery,1
-2020-12-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3715
-2020-12-01,Systemwide,Systemwide,1,External Factors,Systemwide,1726
-2020-12-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6824
-2020-12-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1749
-2020-12-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,2797
-2020-12-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3582
-2020-12-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,807
-2020-12-01,Systemwide,Systemwide,2,External Factors,Systemwide,494
-2020-12-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1249
-2020-12-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,866
-2020-12-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1235
-2020-12-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1143
 2020-11-01,A DIVISION,1,1,Crew Availability,Crew Availability,122
 2020-11-01,A DIVISION,1,1,External Factors,External Agency or Utility,30
 2020-11-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,6
@@ -32702,18 +32839,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-11-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,2
 2020-11-01,B DIVISION,S Rock,2,Planned ROW Work,Insufficient Supplement Schedule,3
 2020-11-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,10
-2020-11-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,2636
-2020-11-01,Systemwide,Systemwide,1,External Factors,Systemwide,621
-2020-11-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,5313
-2020-11-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1703
-2020-11-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,2695
-2020-11-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,2968
-2020-11-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,1632
-2020-11-01,Systemwide,Systemwide,2,External Factors,Systemwide,152
-2020-11-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,977
-2020-11-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1084
-2020-11-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1440
-2020-11-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,796
 2020-10-01,A DIVISION,1,1,Crew Availability,Crew Availability,140
 2020-10-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,18
 2020-10-01,A DIVISION,1,1,External Factors,Inclement Weather,1
@@ -33340,18 +33465,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-10-01,B DIVISION,S Rock,1,Police & Medical,"Public Conduct, Crime, Police Response",2
 2020-10-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,9
 2020-10-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,5
-2020-10-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,3019
-2020-10-01,Systemwide,Systemwide,1,External Factors,Systemwide,386
-2020-10-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,5005
-2020-10-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,2199
-2020-10-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3761
-2020-10-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,2702
-2020-10-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,653
-2020-10-01,Systemwide,Systemwide,2,External Factors,Systemwide,43
-2020-10-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1027
-2020-10-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,918
-2020-10-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1784
-2020-10-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,760
 2020-09-01,A DIVISION,1,1,Crew Availability,Crew Availability,242
 2020-09-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,1
 2020-09-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,19
@@ -34004,18 +34117,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-09-01,B DIVISION,S Rock,2,Operating Conditions,,1
 2020-09-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
 2020-09-01,B DIVISION,S Rock,2,Police & Medical,Sick/Injured Customer,3
-2020-09-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,2902
-2020-09-01,Systemwide,Systemwide,1,External Factors,Systemwide,216
-2020-09-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,5100
-2020-09-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,2178
-2020-09-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,4458
-2020-09-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,2749
-2020-09-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,491
-2020-09-01,Systemwide,Systemwide,2,External Factors,Systemwide,120
-2020-09-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1109
-2020-09-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,713
-2020-09-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1572
-2020-09-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1479
 2020-08-01,A DIVISION,1,1,Crew Availability,Crew Availability,213
 2020-08-01,A DIVISION,1,1,External Factors,External Agency or Utility,26
 2020-08-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,9
@@ -34706,18 +34807,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-08-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
 2020-08-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",2
 2020-08-01,B DIVISION,S Rock,2,Police & Medical,Sick/Injured Customer,6
-2020-08-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,2368
-2020-08-01,Systemwide,Systemwide,1,External Factors,Systemwide,2277
-2020-08-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,5243
-2020-08-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1686
-2020-08-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3765
-2020-08-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3295
-2020-08-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,447
-2020-08-01,Systemwide,Systemwide,2,External Factors,Systemwide,247
-2020-08-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1019
-2020-08-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,845
-2020-08-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1738
-2020-08-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,840
 2020-07-01,A DIVISION,1,1,Crew Availability,Crew Availability,94
 2020-07-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,1
 2020-07-01,A DIVISION,1,1,External Factors,Inclement Weather,2
@@ -35382,18 +35471,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-07-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,3
 2020-07-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
 2020-07-01,B DIVISION,S Rock,2,Police & Medical,Sick/Injured Customer,3
-2020-07-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,2059
-2020-07-01,Systemwide,Systemwide,1,External Factors,Systemwide,869
-2020-07-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6743
-2020-07-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1710
-2020-07-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,2785
-2020-07-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3202
-2020-07-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,202
-2020-07-01,Systemwide,Systemwide,2,External Factors,Systemwide,83
-2020-07-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1502
-2020-07-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,728
-2020-07-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1404
-2020-07-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,829
 2020-06-01,A DIVISION,1,1,Crew Availability,Crew Availability,74
 2020-06-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,9
 2020-06-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,16
@@ -36013,18 +36090,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-06-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,4
 2020-06-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Braking,2
 2020-06-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,1
-2020-06-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1104
-2020-06-01,Systemwide,Systemwide,1,External Factors,Systemwide,407
-2020-06-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,4891
-2020-06-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,1313
-2020-06-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,1990
-2020-06-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,2030
-2020-06-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,238
-2020-06-01,Systemwide,Systemwide,2,External Factors,Systemwide,24
-2020-06-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,872
-2020-06-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,552
-2020-06-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1418
-2020-06-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,658
 2020-05-01,A DIVISION,1,1,Crew Availability,Crew Availability,3
 2020-05-01,A DIVISION,1,1,External Factors,External Agency or Utility,1
 2020-05-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,7
@@ -36605,18 +36670,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-05-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,11
 2020-05-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,15
 2020-05-01,B DIVISION,S Rock,2,Operating Conditions,,3
-2020-05-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,112
-2020-05-01,Systemwide,Systemwide,1,External Factors,Systemwide,134
-2020-05-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,1788
-2020-05-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,602
-2020-05-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,1196
-2020-05-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,1414
-2020-05-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,445
-2020-05-01,Systemwide,Systemwide,2,External Factors,Systemwide,71
-2020-05-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1112
-2020-05-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,736
-2020-05-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,803
-2020-05-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,846
 2020-04-01,A DIVISION,1,1,Crew Availability,Crew Availability,98
 2020-04-01,A DIVISION,1,1,External Factors,External Agency or Utility,16
 2020-04-01,A DIVISION,1,1,Infrastructure & Equipment,Other Infrastructure,5
@@ -37013,18 +37066,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-04-01,B DIVISION,S Rock,1,Planned ROW Work,Subways Maintenance,1
 2020-04-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,2
 2020-04-01,B DIVISION,S Rock,2,External Factors,Inclement Weather,1
-2020-04-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,4860
-2020-04-01,Systemwide,Systemwide,1,External Factors,Systemwide,256
-2020-04-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,731
-2020-04-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,353
-2020-04-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,792
-2020-04-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,950
-2020-04-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,3666
-2020-04-01,Systemwide,Systemwide,2,External Factors,Systemwide,66
-2020-04-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,240
-2020-04-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,145
-2020-04-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,109
-2020-04-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,262
 2020-03-01,A DIVISION,1,1,Crew Availability,Crew Availability,53
 2020-03-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,11
 2020-03-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,16
@@ -37644,18 +37685,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-03-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Rail and Roadbed,3
 2020-03-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
 2020-03-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",2
-2020-03-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1237
-2020-03-01,Systemwide,Systemwide,1,External Factors,Systemwide,738
-2020-03-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,4260
-2020-03-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,3242
-2020-03-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,3761
-2020-03-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,3427
-2020-03-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,463
-2020-03-01,Systemwide,Systemwide,2,External Factors,Systemwide,82
-2020-03-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,479
-2020-03-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,881
-2020-03-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2083
-2020-03-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,859
 2020-02-01,A DIVISION,1,1,Crew Availability,Crew Availability,13
 2020-02-01,A DIVISION,1,1,External Factors,External Agency or Utility,33
 2020-02-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,9
@@ -38335,18 +38364,6 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-02-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,3
 2020-02-01,B DIVISION,S Rock,2,Operating Conditions,,2
 2020-02-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",2
-2020-02-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,1027
-2020-02-01,Systemwide,Systemwide,1,External Factors,Systemwide,770
-2020-02-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,6330
-2020-02-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,7042
-2020-02-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,5567
-2020-02-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6193
-2020-02-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,384
-2020-02-01,Systemwide,Systemwide,2,External Factors,Systemwide,153
-2020-02-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1342
-2020-02-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1634
-2020-02-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,2241
-2020-02-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1173
 2020-01-01,A DIVISION,1,1,Crew Availability,Crew Availability,17
 2020-01-01,A DIVISION,1,1,External Factors,External Agency or Utility,306
 2020-01-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,8
@@ -39033,15 +39050,3 @@ month,division,line,day_type,reporting_category,subcategory,delays
 2020-01-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,2
 2020-01-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",15
 2020-01-01,B DIVISION,S Rock,2,Police & Medical,Sick/Injured Customer,1
-2020-01-01,Systemwide,Systemwide,1,Crew Availability,Systemwide,770
-2020-01-01,Systemwide,Systemwide,1,External Factors,Systemwide,1444
-2020-01-01,Systemwide,Systemwide,1,Infrastructure & Equipment,Systemwide,7820
-2020-01-01,Systemwide,Systemwide,1,Operating Conditions,Systemwide,8082
-2020-01-01,Systemwide,Systemwide,1,Planned ROW Work,Systemwide,6078
-2020-01-01,Systemwide,Systemwide,1,Police & Medical,Systemwide,6132
-2020-01-01,Systemwide,Systemwide,2,Crew Availability,Systemwide,141
-2020-01-01,Systemwide,Systemwide,2,External Factors,Systemwide,348
-2020-01-01,Systemwide,Systemwide,2,Infrastructure & Equipment,Systemwide,1480
-2020-01-01,Systemwide,Systemwide,2,Operating Conditions,Systemwide,1557
-2020-01-01,Systemwide,Systemwide,2,Planned ROW Work,Systemwide,1938
-2020-01-01,Systemwide,Systemwide,2,Police & Medical,Systemwide,1389
