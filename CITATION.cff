@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Source code for my CS395T final paper"
+authors:
+  - family-names: Tam
+    given-names: Andrew
+title: "CS395T Final Paper Source Code"
+version: 1.0.0
+identifiers:
+date-released: 2024-11-17
